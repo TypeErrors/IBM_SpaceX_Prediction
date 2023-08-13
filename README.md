@@ -1,4 +1,4 @@
-# IBM_SpaceX_Pridiction
+# IBM_SpaceX_Prediction
 This is a peer review Project provided by Coursera in IBM Data Science Course.
 
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. 
